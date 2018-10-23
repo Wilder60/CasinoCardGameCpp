@@ -1,0 +1,10 @@
+#pragma once
+#include <algorithm>
+#include <vector>
+#include <iostream>
+#include <string>
+#include <map>
+#include "Card.h"
+#include "Deck.h"
+#include "Player.h"
+#include "Board.h"
